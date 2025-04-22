@@ -2,15 +2,6 @@
 
 A gamified platform to educate Indian children about their rights through interactive puzzles, quizzes, and scoreboards. It includes tools to find nearby schools/NGOs and resources for parents/teachers to support education rights.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 In India, lack of awareness about children's rights leads to vulnerability and exploitation. **ChildRightsEduGame** aims to empower children by providing a child-friendly platform to learn about their legal rights through engaging content. It also supports parents and teachers with educational resources.
